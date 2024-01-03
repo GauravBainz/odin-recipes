@@ -1,2 +1,2 @@
 # odin-recipes
-basic website to practice HTML
+basic website to showcase some simple recipes and some fun picures included
